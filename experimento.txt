@@ -1,16 +1,4 @@
 {
-    "Usuarios": [
-        {
-            "nombre": "fede",
-            "password": "123"
-        },
-        {
-            "nombre": "emma",
-            "password": "234"
-        },
-        {
-            "nombre": "rebeca",
-            "password": "pepito"
-        }
-    ]
+    "Fede": "asd",
+    "Emma": "1812"
 }
